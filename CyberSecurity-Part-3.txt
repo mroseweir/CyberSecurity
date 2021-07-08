@@ -1,0 +1,17 @@
+Research major cybersecurity breaches over the past 20 years and pick one to write a short essay on.
+
+LinkedIN was breached in 2012.
+
+Give an overview of what the breach was and the motivations behind it.
+
+The breach stemmed from a russion hacker that was able to gain access to almost 117 million passwords. Although LinkedIN had initially claimed that only 6.5 million passwords had been breached. It appears that the motivation behind the breach was more of a social engineering experiment than anything. LinkedIn has fallen victim to several social engineering attacks in the past. The hacker that gained access to all of the information ended up only selling it for 5 bitcoins. Valued at $2200 USD at the time.
+
+Explain where the “tech flaws” were, and how hackers were able to breach their system.
+
+-Unsalted SHA-1 hashes (Much less secure)
+-Users using simple passwords was another common issue. 
+
+
+What has the company done to protect against that vulnerability.
+
+LinkedIn stated in 2012 after the initial breach that they had added enhanced protection. Likely referring to adding the "salt" functionality to their passwords. They also required a password reset for any of the passwords that were confirmed to be leaked. Around 6.5 million passwords were reset after the attack. 
